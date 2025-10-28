@@ -1,5 +1,2 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
+opencv-python==4.8.1.78
+Pillow==10.1.0
