@@ -30,7 +30,13 @@ A real-time virtual drawing application that uses your webcam and hand gestures 
    cd Diabetes-Prediction
    ```
 
-2. **Install required packages**:
+2. **Create a new environment and activate it**:
+  ```bash
+  python -m venv venv
+  venv\Scripts\activate
+  ```
+
+3. **Install required packages**:
    ```bash
    pip install -r requirements.txt
    ```
@@ -100,7 +106,6 @@ A real-time virtual drawing application that uses your webcam and hand gestures 
 ### Index Finger Up (Drawing)
 ```
      👆
-    ✊🏻
 ```
 - **What to do**: Extend only your index finger, keep other fingers closed
 - **Action**: Draws red lines on the canvas
@@ -109,7 +114,6 @@ A real-time virtual drawing application that uses your webcam and hand gestures 
 ### Middle Finger Up (Clear Screen)
 ```
      🖕
-    ✊🏻
 ```
 - **What to do**: Extend only your middle finger, keep other fingers closed
 - **Action**: Clears the entire canvas to white
@@ -255,9 +259,6 @@ Contributions are welcome! Feel free to:
 - Submit pull requests
 - Improve documentation
 
-## 📝 License
-
-This project is open source and available for educational and personal use.
 
 ## 🙏 Acknowledgments
 
@@ -265,9 +266,11 @@ This project is open source and available for educational and personal use.
 - **OpenCV**: Open-source computer vision library
 - Built with Python 3.x
 
-## 📧 Contact
 
-For questions, issues, or suggestions, please open an issue on GitHub or contact the repository owner.
+**Saai Sujit Chintala**
+- GitHub: [SujitChintala](https://github.com/SujitChintala)
+- LinkedIn: [Saai Sujit Chintala](https://www.linkedin.com/in/sujitchintala/)
+- Email: sujitchintala@gmail.com
 
 ---
 
