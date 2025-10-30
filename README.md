@@ -277,6 +277,6 @@ Contributions are welcome! Feel free to:
 <div align="center">
 
 **Enjoy drawing with your hands! 🎨✨**     
-**⭐ Star this repository if you find it helpful!**
+**⭐ Star this repository if you find it helpful! ⭐**
 
 </div>
